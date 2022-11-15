@@ -1,0 +1,6 @@
+<svg id="table" width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M10 6.5H19M10 12.5H19M10 18.5H19" stroke="#6C86AD" stroke-width="2" stroke-linecap="round"/>
+<circle cx="6" cy="6.5" r="1" fill="#6C86AD"/>
+<circle cx="6" cy="12.5" r="1" fill="#6C86AD"/>
+<circle cx="6" cy="18.5" r="1" fill="#6C86AD"/>
+</svg>
