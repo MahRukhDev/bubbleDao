@@ -70,6 +70,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
+      background-image: url(/bgdao.png);
   background-color: #fff;
 }
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -9932,7 +9933,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
   --1inch-day__button-disabled: #bac7da;
   --1inch-day__shadow: 0px 4px 4px
   rgba(214, 223, 240, 0.5),
-    0px 8px 18px #dae2f1;
+    0px 8px 18px #ebf2ff;
 }
 body {
   --1inch__link-01:
@@ -10044,7 +10045,7 @@ body.light-theme {
   linear-gradient(
     73.28deg,
     #8247e5 6.51%,
-    #6027c0 88.45%
+    #e4d3ff 88.45%
   );
   --1inch-common-btn-gradient-bg-03:
   linear-gradient(
@@ -10156,12 +10157,12 @@ body {
       #e3dfff 0%,
       rgba(0, 43, 94, 0) 100%
     ),
-    linear-gradient(0deg, #06070a, #06070a);
-  --1inch-page-bg-02: #06070a;
+    linear-gradient(0deg, #e1d1ff, #e1d4fa);
+  --1inch-page-bg-02: #e8eeff;
   --1inch-page-bg-03:
   radial-gradient(
     50% 50% at 50% 50%,
-    rgba(40, 94, 176, 0.41) 0%,
+    rgb(255 235 253) 0%,
     rgba(6, 19, 31, 0) 100%
   );
   --1inch-page-bg-04:
@@ -13040,7 +13041,7 @@ html {
   background: var(--1inch-bg-01);
 }
 body {
-  background: rgb(200 178 255 / 74%);
+  background: rgb(200 182 242);
   color: #ece4e4;
 }
 ::selection {
